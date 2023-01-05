@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Aimsir Weather - Yet another weather app, but with an Irish twist
+- 🌱 I’m currently learning Swift Charts, WeatherKit, SwiftUI, WidgetKit
+- 📫 How to reach me: darrenapollo@gmail.com
+
 <!--
 **darrenapollo/darrenapollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
