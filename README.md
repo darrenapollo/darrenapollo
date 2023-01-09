@@ -1,10 +1,12 @@
-### 👋 I'm Darren
+# 👋 I'm Darren
 
 - 🔭 Currently working on **Aimsir Weather** - Yet another weather app, but with an Irish twist
 - 🌱 Always learning - Right now, Swift Charts, WeatherKit, SwiftUI, WidgetKit
 - 📫 Reach me at: darrenapollo@gmail.com
 
-##Sleep Soundly - White Noise
+# APPS
+
+## Sleep Soundly - White Noise
 Sleep Soundly is a white noise machine, which can be customised to play specific sounds, with the ability to save custom settings for future use.
 - https://apps.apple.com/gb/app/sleep-soundly-white-noise/id6444390944
 
