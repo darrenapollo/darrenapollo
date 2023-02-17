@@ -2,7 +2,7 @@
 ## iOS Developer at Sharemob
 ### Reach me at darrenapollo@gmail.com
 
-Welcome to my Github Readme. I am an iOS developer with over three years experience, based in Ireland, but work remotely from anywhere. I am currently working at Sharemob, where I work on the #1 entertainment app My Talking Pet (https://apps.apple.com/app/my-talking-pet/id1427290424), among other projects. Outside of Sharemob, I am working on my own personal projects. For more information on them, see below!
+Welcome to my Github Readme. I am an iOS developer based in Ireland, but work remotely from anywhere. I am currently working at Sharemob, where I work on the #1 entertainment app My Talking Pet (https://apps.apple.com/app/my-talking-pet/id1427290424), among other projects. Outside of Sharemob, I am working on my own personal projects. For more information on them, see below!
 
 # PUBLISHED APPS
 
